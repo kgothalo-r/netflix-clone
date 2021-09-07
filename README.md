@@ -1,4 +1,9 @@
-# netflix-clone
-A Netflix Clone created with React.js with API data retrieved from TMDB with Axios.
+# Netflix Clone
+A Netflix UI clone with basic fuctionality utililising React.js
 
-Displays the basic functionality of the Netflix interface, and design scaled to a web-based application.
+# Features
+Navbar which changes on scroll
+Carousel movies and shows
+Click for movie description, title and to view
+Axios dependency
+TMDB API
