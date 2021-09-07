@@ -1,6 +1,9 @@
 # Netflix Clone
 A Netflix UI clone with basic fuctionality utililising React.js
 
+# GitHub Repository
+https://github.com/kgothalo-r/netflix-clone
+
 # Project Video
 https://drive.google.com/drive/folders/1zlnR5bdnml0LFUfiaJb5zca0JnxeHC2C?usp=sharing
 
