@@ -1,0 +1,10 @@
+.modal-component {
+    margin: 20px auto;
+    padding-left: 0;
+    width: 1000px;
+    border-radius: 50%;
+}
+
+.div.ReactModal_Overlay{
+    width: 100px;
+}
